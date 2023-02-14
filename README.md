@@ -22,7 +22,7 @@
 
 #### 📚 more details about this solver, check my Mirror post, **[🐮✨bot #1: cowsol, an arb solver for CoW protocol](https://mirror.xyz/steinkirch.eth/s_RwnRgJvK_6fLYPyav7lFT3Zs4W4ZvYwp-AM9EbuhQ)**.
 
-#### 🚨 disclaimer: this project is a boilerplate to get you started; you might or might not profit from it: in the mev world, nobody is going to handle you the alpha. i am not responsible for anything you do with my free code.
+#### 🚨 disclaimer: i am not responsible for anything you do with my free code.
 
 <br>
 
