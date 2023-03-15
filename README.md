@@ -20,9 +20,8 @@
 
 #### 🐮 this program implements a solver running my arbitrage strategies for [CoW Protocol](https://github.com/cowprotocol).
 
-#### 📚 more details about this solver, check my Mirror post, **[mev #3: cowsol, an arb solver for CoW protocol](https://mirror.xyz/steinkirch.eth/s_RwnRgJvK_6fLYPyav7lFT3Zs4W4ZvYwp-AM9EbuhQ)**.
+#### 📚 more details about this solver, check my mirror post, **[mev #3: cowsol, an arb solver for CoW protocol](https://mirror.xyz/steinkirch.eth/s_RwnRgJvK_6fLYPyav7lFT3Zs4W4ZvYwp-AM9EbuhQ)**.
 
-#### 🚨 disclaimer: i am not responsible for anything you do with my free code.
 
 <br>
 
