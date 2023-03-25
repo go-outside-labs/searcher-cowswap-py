@@ -13,9 +13,9 @@
 
 ### tl; dr:
 
-#### 🤖 [solvers](https://docs.cow.fi/off-chain-services/solvers) are a key component in the [cow protocol](https://github.com/cowprotocol), serving as the matching engines that find the best execution paths for user orders*. this program implements a solver running my arbitrage strategies.
+##### 🤖 [solvers](https://docs.cow.fi/off-chain-services/solvers) are a key component in the [cow protocol](https://github.com/cowprotocol), serving as the matching engines that find the best execution paths for user orders. in this project, i implements a solver from scratch, running certain arbitrage strategies.
 
-#### 📚 more details about this solver, check my mirror post, **[mev #3: cowsol, an arb solver for CoW protocol](https://mirror.xyz/steinkirch.eth/s_RwnRgJvK_6fLYPyav7lFT3Zs4W4ZvYwp-AM9EbuhQ)**.
+##### 📚 more details, check my mirror post, **[mev #3: cowsol, an arb solver for CoW protocol](https://mirror.xyz/steinkirch.eth/s_RwnRgJvK_6fLYPyav7lFT3Zs4W4ZvYwp-AM9EbuhQ)**.
 
 
 <br>
