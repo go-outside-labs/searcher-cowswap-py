@@ -4,12 +4,10 @@
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/1130416/210285000-e2c30198-c671-4bef-927d-7a2ab5bf9ced.png" width="50%" align="center" style="padding:1px;border:1px solid black;"/>
+<img src="https://github.com/go-outside-labs/cowsol-searcher-cowswap-py/assets/138340846/83f76274-2339-4de0-bad9-307ce5b72a63" width="50%" align="center" style="padding:1px;border:1px solid black;"/>
  </p>
 
 <br>
-
-
 
 ### tl; dr:
 
