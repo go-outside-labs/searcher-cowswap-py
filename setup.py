@@ -7,7 +7,7 @@ setup(
                     'src.apis', \
                     'src.strategies', \
                     'src.util']),
-    author="bt3gl",
+    author="Mia Stein",
     install_requires=['python-dotenv'],
     entry_points={
         'console_scripts': ['cowsol=src.main:run']
